@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-ping-coming-soon-page-yN9sP1Mocq](https://your-solution-url.com)
+- Live Site URL: [https://belkysupreme22.github.io/ping.io/](https://https://belkysupreme22.github.io/ping.io/)
 
 ### Built with
 
